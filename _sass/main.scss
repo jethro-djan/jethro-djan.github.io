@@ -1,0 +1,83 @@
+@import "../node_modules/bulma/bulma.scss";
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+.navbar .navbar-menu {
+  flex-grow: initial;
+  flex-shrink: initial;
+}
+
+// .navbar-start {
+//   padding-left: 5%;
+// }
+
+.navbar-end {
+  padding-left: 8%;
+}
+
+body {
+  font-size: 20px;
+  line-height: 1.5;
+
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+  // font-family: "Ubuntu Mono", monospace;
+  // font-weight: 400;
+  // font-style: normal;
+}
+
+// h1 {
+//   font-size: 38px;
+
+//   font-family: "IBM Plex Sans", sans-serif;
+//   font-weight: 700;
+//   font-style: normal;
+
+
+//   // font-family: "Ubuntu Mono", monospace;
+//   // font-weight: 700;
+//   // font-style: normal;
+// }
+
+.hero-body {
+  div.container {
+    padding-bottom: 6%;
+  }
+}
+
+header {
+  padding: 0 2% 0 2%;
+}
+
+.is-fullheight-100vh {
+  height: 100vh;
+}
+
+#mainSection {
+  padding: 0 2% 0 8%;
+}
+
+body {
+  display: block;
+}
+html {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  text-size-adjust: 100%;
+}
+
+// html, body {
+//   height: 100%;
+// }
+// body {
+//   display: flex;
+//   flex-direction: column;
+// }
+// .content {
+//   flex: 1 0 auto;
+// }
+// .footer {
+//   flex-shrink: 0;
+// }

@@ -1,0 +1,53 @@
+---
+layout: default
+title: Home
+---
+<section class="hero is-white has-text-centered">
+  <div class="hero-body">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column">
+          <h1 class="title pb-5 is-spaced is-size-1-desktop is-size-2-tablet is-size-3-mobile">The hub for the refined thoughts of a wondering mind.</h1>
+          <h2 class="subtitle is-size-4-tablet">Mathematics, philosophy, software development, programming languages, and more.</h2>
+        </div>
+      </div>
+    </div>
+
+    <div class="field">
+      <div class="columns is-centered">
+        <div class="column is-half">
+          <p class="control has-icons-right">
+            <input class="input is-normal is-rounded" type="text" placeholder="Find a post">
+            <span class="icon is-small is-right">
+              <i class="fas fa-search" aria-hidden="true"></i>
+            </span>
+          </p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+</header>
+
+<section id="mainSection">
+  <div class="container columns is-centered">
+    <div class="column content is-half">
+      <div class="content">
+        <h3>Latest Post</h3>
+        {% assign post = site.posts.first %}
+        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
+        <h3>Top Picks by Author</h3>
+        {% for tag in site.tags %}
+          {% if tag[0] == "featured" %}
+            {% for post in tag[1] %}
+              <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+            {% endfor %}</a></li>
+          {% endif %}
+        {% endfor %}
+        <p><a href=""></a></p>
+      </div>
+    </div>
+  </div>
+  <div class="content">
+</section>

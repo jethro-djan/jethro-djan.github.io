@@ -1,0 +1,30 @@
+<nav class="navbar is-transparent is-spaced" role="navigation" aria-label="main navigation">
+  <div class="container columns is-centered">
+    <div class="navbar-brand">
+      <a href="/" class="navbar-item">
+        <img src="/assets/images/oblivion logo png.png" alt="logo" >
+        <!-- <object data="/assets/images/svg oblivion logo.svg" width="120px" height="80px"> </object> -->
+      </a>
+  
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMenuItems">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+  
+    <div id="navbarMenuItems" class="navbar-menu is-shadowless">
+      <div class="navbar-start">
+      </div>
+  
+      <div class="navbar-end has-text-centered">
+        {% for item in site.data.navigation %}
+          <div class="navbar-item">
+              <a class="button is-black is-outlined is-rounded has-text-weight-normal" href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</nav>
