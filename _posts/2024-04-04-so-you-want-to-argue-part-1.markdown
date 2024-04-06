@@ -4,14 +4,6 @@ title: "So, You Want to Argue (Part 1)"
 excerpt: "Some thoughts on arguing (Part 1)"
 category: Philosophy
 ---
-<div class="columns">
-    <div class="column is-four-fifths pb-1">
-        <h6>{{ page.date | date_to_string }}</h6>
-    </div>
-    <div class="column pb-1">
-        <h6>{{ page.category }}</h6>
-    </div>
-</div>
 
 _This post is divided into two parts. This is the first of the two. If you have already read this one, hop to the [second]({% post_url 2024-04-04-so-you-want-to-argue-part-2 %} "So, You Want to Argue (Part 2)")_.
 

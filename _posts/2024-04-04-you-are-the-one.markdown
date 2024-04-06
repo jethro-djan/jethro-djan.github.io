@@ -5,14 +5,6 @@ excerpt: "A letter to the one"
 category: Fiction
 tag: featured
 ---
-<div class="columns">
-    <div class="column is-four-fifths pb-1">
-        <h6>{{ page.date | date_to_string }}</h6>
-    </div>
-    <div class="column pb-1">
-        <h6>{{ page.category }}</h6>
-    </div>
-</div>
 
 Special One,
 

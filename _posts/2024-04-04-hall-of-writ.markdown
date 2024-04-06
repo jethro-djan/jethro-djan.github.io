@@ -5,14 +5,6 @@ excerpt: "A young writer announces himself to the world."
 category: Uncategorised
 tag: featured
 ---
-<div class="columns">
-    <div class="column is-four-fifths pb-1">
-        <h6>{{ page.date | date_to_string }}</h6>
-    </div>
-    <div class="column pb-1">
-        <h6>{{ page.category }}</h6>
-    </div>
-</div>
 
 In one of his songs, Leonard Cohen finds himself in an otherworldly place he calls the Tower of Song. The building is lonely, with a few tenants who occupy it. He finds Hank Williams in there, a permanent resident of the tower, but even he lives several floors up, possibly in a penthouse. In contrast, Leonard only rents a space–but at least he had arrived. That is all that mattered. Leonard goes on to admit, rather cheekily, that he was indeed born with his amazing voice; his music inspired by angelic muses from the plane beyond. He truly states his case brazenly for those who might deem him unworthy of a place in the tower.
 
