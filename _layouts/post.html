@@ -9,17 +9,28 @@ layout: default
       <article>
         <div class="columns">
           <div class="column is-four-fifths pb-1">
-              <p class="content is-small">{{ page.date | date_to_long_string }}</p>
+            <div class="field is-grouped is-grouped-multiline">
+              <span class="icon-text">
+                <span class="icon">
+                  <i class="fas fa-table" aria-hidden="true"></i>
+                </span>
+                <span class="content is-small">{{ page.date | date_to_string }}</span>
+              </span>
+              <span class="tag">
+                <span class="icon is-small">
+                    <i class="fas fa-tag" aria-hidden="true"></i>
+                </span>
+                <span><a href="/categories.html">{{ page.category }}</a></span>
+              </span>
+            </div>
           </div>
           <div class="column pb-1">
-            <div class="tags">
-                <div class="tag">
-                    <span class="icon is-small">
-                        <i class="fas fa-tag" aria-hidden="true"></i>
-                    </span>
-                    <span><a href="/categories.html">{{ page.category }}</a></span>
-                </div>
-            </div>
+            <span class="icon-text">
+              <span class="icon">
+                <i class="fas fa-clock" aria-hidden="true"></i>
+              </span>
+              <span class="content is-small">{% include reading-time.html %}</span>
+            </span>
           </div>
         </div>
         {{ content }}
