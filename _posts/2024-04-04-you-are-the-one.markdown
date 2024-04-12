@@ -6,6 +6,8 @@ category: Fiction
 tag: featured
 ---
 
+_Inspired by “You are the one” by Plumm and the codex of love._
+
 Special One,
 
 What would I like to say to you, you ask? What else is there to tell? You are the one.
