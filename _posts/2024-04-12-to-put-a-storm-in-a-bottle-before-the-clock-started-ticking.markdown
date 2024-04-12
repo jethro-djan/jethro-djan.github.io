@@ -39,4 +39,4 @@ Their conversation faded into the background as the ordeal she suffered years ag
 
 ---- 
 
-Read Chapter 1 of the story [here]({% post_url 2024-04-12-to-put-a-storm-in-a-bottle-sometime-after-730-pm %} "To Put A Storm In a Bottle: Sometime after 7:30 p.m").
+Read Chapter 2 of the story [here]({% post_url 2024-04-12-to-put-a-storm-in-a-bottle-sometime-after-730-pm %} "To Put A Storm In a Bottle: Sometime after 7:30 p.m").
