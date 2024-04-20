@@ -10,15 +10,13 @@
 #
 # If you need help with YAML syntax, here are some quick references for you:
 #tle: Your awesome title
-email: your-email@example.com
+email: jthryeboah@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The refined thoughts of a wondering mind. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+url: "https://www.oblivion-times.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: JethroDjan
+github_username:  jethro-djan
 # https://learnxinyminutes.com/docs/yaml/
 #
 # Site settings
@@ -33,6 +31,10 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+markdown: kramdown
+# kramdown:
+#   math_engine: mathjax
 
 # Exclude from processing.
 # The following items will not be processed, by default.

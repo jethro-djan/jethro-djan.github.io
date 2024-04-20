@@ -8,6 +8,16 @@
     <link rel="stylesheet" href="/assets/css/styles.css">
     {% feed_meta %}
     {% seo %}
+    <script>
+      MathJax = {
+        tex: {
+          inlineMath: [['\\(', '\\)']]
+        }
+      };
+      </script>
+      <script id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+      </script>
   </head>
   <body>
     <header>
@@ -21,6 +31,30 @@
         {% include footer.html %}
       </div>
     </footer>
+    <!-- KaTeX libraries -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" crossorigin="anonymous">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" crossorigin="anonymous"></script>
+    <!-- Convert Kramdown output into KaTeX rendered HTML -->
+    <!-- <script type="text/javascript">
+      // Kramdown dumps our math expressions in plaintext, so we replace the elements
+      // containing them with KaTeX rendered HTML
+      window.onload = function () {
+        document.querySelectorAll("script[type='math/tex; mode=display']")
+          .forEach(function (elem) {
+            try {
+              var tex = elem.innerText.replace(/%.*/g, '');
+              elem.outerHTML = katex.renderToString(tex, {displayMode: true});
+            } catch (e) { console.log("Invalid LaTeX. Skipping."); console.error(e) }
+          });
+        document.querySelectorAll("script[type='math/tex']")
+          .forEach(function (elem) {
+            try {
+              var tex = elem.innerText.replace(/%.*/g, '');
+              elem.outerHTML = katex.renderToString(tex, {displayMode: false});
+            } catch (e) { console.log("Invalid LaTeX. Skipping."); console.error(e) }
+          });
+      }
+    </script> -->
   </body>
   <script src="/assets/js/script.js"></script>
   <script src="https://kit.fontawesome.com/86ed507a68.js" crossorigin="anonymous"></script>
