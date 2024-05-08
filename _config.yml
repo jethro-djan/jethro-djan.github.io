@@ -14,7 +14,8 @@ email: jthryeboah@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The refined thoughts of a wondering mind. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.oblivion-times.com" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://www.oblivion-times.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.jethro-djan.github.io"
 twitter_username: JethroDjan
 github_username:  jethro-djan
 # https://learnxinyminutes.com/docs/yaml/
@@ -55,3 +56,7 @@ markdown: kramdown
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge

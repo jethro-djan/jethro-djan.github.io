@@ -12,7 +12,7 @@ _Okay, so what?_ You ask.
 
 Well, I am a teller of stories. In this post, I would like to tell you a mildly fascinating tale: a familiar one about how adversity can morph into a person for those of us of the religious ilk, especially in Ghana. I would like to cut through this complex issue using two questions. Let’s dive into it.
 
-Picture your adversity. Let me ask you this: how big is it your problem? I mean, really. Can you confidently estimate the size of your challenge? This question might strike you as inconsiderate, or perhaps it even borders offensive. Maybe you are even driven to ask why you should care about such a question. Nonetheless, in the grand scheme of things, it is a question worth asking.
+Picture your adversity. Let me ask you this: how big is your problem? I mean, really. Can you confidently estimate the size of your challenge? This question might strike you as inconsiderate, or perhaps it even borders offensive. Maybe you are even driven to ask why you should care about such a question. Nonetheless, in the grand scheme of things, it is a question worth asking.
 
 If you are still reading then I am pretty confident you are not upset about my questions. That’s awesome!
 
@@ -28,5 +28,6 @@ But then, we are confronted with a dichotomy. This dichotomy will lead to a wond
 
 Alas, this is my point. Our society is riddled with people who refuse to take responsibility for anything. It is filled with leaders who will sit at a table and apportion blame, rather than  come out with solutions to pertinent problems. The same socialisation will be fighting you as you read my post. But I would have achieved my aim: I merely wanted you to stop and ponder.
 
-—
+---
+
 Catch my next iteration of this reflection soon!
