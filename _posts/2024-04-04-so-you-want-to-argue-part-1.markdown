@@ -2,7 +2,7 @@
 layout: post
 title: "So, You Want to Argue (Part 1)"
 excerpt: "Some thoughts on arguing (Part 1)"
-category: Philosophy
+category: Reflection
 ---
 
 _This post is divided into two parts. This is the first of the two. If you have already read this one, hop to the [second]({% post_url 2024-04-04-so-you-want-to-argue-part-2 %} "So, You Want to Argue (Part 2)")_.
