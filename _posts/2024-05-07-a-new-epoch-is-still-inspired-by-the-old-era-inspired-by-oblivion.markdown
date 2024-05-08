@@ -8,9 +8,9 @@ tag: featured
 
 Five years ago, I wrote a ‘poem’. Actual poets might deride me. So I ask any actual professionals who might be reading this to forgive me. As far as I can tell, there is nothing compelling about it from a literary perspective. It is not splendidly arranged. It has no rhyme scheme. But it is my proudest literary work yet. And yet, perhaps unsurprisingly, no one seems to love it like I do. This is okay. It seems this is the case with many artists and their fans: ironically, their sensibilities are usually orthogonal. 
 
-This work is inspired by an instrumental piece of the same name by Argentine composer Astor Piazzolla. I first heard it when it was rendered on the acoustic guitar by Nadia Kossinskaja on YouTube. It was so beautiful, and deep and so haunting. I couldn’t breathe. I couldn’t remain still. It evoked such a deep sadness and pain; pain I hadn’t fell before. But this sort of pain didn’t hurt. It just felt like a dull, throbbing feeling of perpetual unrest. 
+This work is inspired by an instrumental piece of the same name by Argentine composer Astor Piazzolla. I first heard it when it was rendered on the acoustic guitar by Nadia Kossinskaja on YouTube. It was so beautiful, and deep and so haunting. I couldn’t breathe. I couldn’t remain still. It evoked such a deep sadness and pain; pain I hadn’t felt before. But this sort of pain didn’t ache too badly. It just felt like a dull, throbbing feeling of perpetual unrest. 
 
-It also highlights a very important time in my life: a time when I was in a deep struggle with myself. I hope you will enjoy it. I hope you will derive meaning, and if not, share in my perpetual tango with my reality, at least. True to the meaning of the title, many times, the piece makes me painfully aware of forgetting: forgetting things and people, forgetting and losing yourself, and being forgotten. 
+It also highlights a very important time in my life: a time when I was in a deep struggle with myself. I hope you will enjoy it. I hope you will derive meaning from it, and if not, share in my perpetual tango with my reality, at least. True to the meaning of the title, many times, the piece makes me painfully aware of forgetting: forgetting things and people, forgetting and losing yourself, and being forgotten. 
 
 
 #### Inspired by OBLIVION
